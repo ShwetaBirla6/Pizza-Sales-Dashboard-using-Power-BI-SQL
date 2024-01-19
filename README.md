@@ -4,6 +4,10 @@
 
 The Pizza Sales Analysis project is aimed at leveraging data analytics to gain valuable insights into pizza sales trends, performance measures, and key factors influencing revenue within a business. The project involves importing data from SQL Server Management, crafting meaningful SQL queries, connecting Power BI to the database, cleaning and transforming the data, and ultimately designing an interactive dashboard to visualize and communicate the insights obtained.
 
+<img width="1109" alt="Pizza-dashboard-PB" src="https://github.com/ShwetaBirla6/Pizza-Sales-Dashboard-using-Power-BI-SQL/assets/154302915/cce8ed1e-2496-4f58-bb66-055fa5d8bc1b">
+
+
+
 ## Project Objectives:
 
 The primary objectives of this project are:
