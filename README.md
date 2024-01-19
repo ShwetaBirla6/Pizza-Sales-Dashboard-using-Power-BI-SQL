@@ -7,7 +7,7 @@ The Pizza Sales Analysis project is aimed at leveraging data analytics to gain v
 <img width="1109" alt="Pizza-dashboard-PB" src="https://github.com/ShwetaBirla6/Pizza-Sales-Dashboard-using-Power-BI-SQL/assets/154302915/cce8ed1e-2496-4f58-bb66-055fa5d8bc1b">
 
 
-<img width="788" alt="Screenshot 2024-01-19 141645" src="https://github.com/ShwetaBirla6/Pizza-Sales-Dashboard-using-Power-BI-SQL/assets/154302915/85b6c247-1d87-438f-87ad-5cd750809c8e">
+<img width="1120" alt="Screenshot 2024-01-19 141807" src="https://github.com/ShwetaBirla6/Pizza-Sales-Dashboard-using-Power-BI-SQL/assets/154302915/59cb23b8-085d-435d-889d-054e2b9578e8">
 
 
 
